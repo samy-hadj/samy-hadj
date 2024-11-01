@@ -3,24 +3,35 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-<p align="center">
-  
-  <!-- Badges pour les vues du profil, LinkedIn et les étoiles GitHub des dépôts (alignés sur une même ligne) -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![GitHub Repo stars](https://img.shields.io/github/stars/samy-hadj?style=social)](https://github.com/samy-hadj?tab=repositories)
+<table align="center">
+  <tr>
+    <!-- Badge pour les vues du profil -->
+    <td align="center">
+      ![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
+    </td>
+    <!-- Badge LinkedIn -->
+    <td align="center">
+      [![LinkedIn][linkedin-shield]][linkedin-url]
+    </td>
+    <!-- Badge pour les étoiles GitHub des dépôts -->
+    <td align="center">
+      [![GitHub Repo stars](https://img.shields.io/github/stars/samy-hadj?style=social)](https://github.com/samy-hadj?tab=repositories)
+    </td>
+  </tr>
+  <tr>
+    <!-- Badge pour les statistiques GitHub (centré) -->
+    <td colspan="3" align="center">
+      [![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
+    </td>
+  </tr>
+  <tr>
+    <!-- Badge pour les langages les plus utilisés (centré) -->
+    <td colspan="3" align="center">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj)
+    </td>
+  </tr>
+</table>
 
-</p>
-
-<p align="center">
-
-  <!-- Badge pour les statistiques GitHub (centré) -->
-  [![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
-
-  <!-- Badge pour les langages les plus utilisés (centré) -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj)
-
-</p>
 
 
 

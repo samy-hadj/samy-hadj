@@ -3,12 +3,16 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
+![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub followers](https://img.shields.io/github/followers/samy-hadj.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/samy-hadj?tab=followers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj)
+
 
 <!-- PROJECT LOGO -->
 <br />

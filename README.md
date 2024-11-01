@@ -10,7 +10,8 @@
 [![MIT License][license-shield]][license-url] -->
 ![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub followers](https://img.shields.io/github/followers/samy-hadj.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/samy-hadj?tab=followers)
+[![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
+[![GitHub Repo stars](https://img.shields.io/github/stars/samy-hadj?style=social)](https://github.com/samy-hadj?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj)
 
 

@@ -4,20 +4,20 @@
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
-
-  <!-- Badge pour les vues du profil -->
+  
+  <!-- Badges pour les vues du profil, LinkedIn et les étoiles GitHub des dépôts (alignés sur une même ligne) -->
   ![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
-
-  <!-- Badge LinkedIn -->
   [![LinkedIn][linkedin-shield]][linkedin-url]
-
-  <!-- Badge pour les statistiques GitHub -->
-  [![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
-
-  <!-- Badge pour les étoiles GitHub des dépôts -->
   [![GitHub Repo stars](https://img.shields.io/github/stars/samy-hadj?style=social)](https://github.com/samy-hadj?tab=repositories)
 
-  <!-- Badge pour les langages les plus utilisés -->
+</p>
+
+<p align="center">
+
+  <!-- Badge pour les statistiques GitHub (centré) -->
+  [![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
+
+  <!-- Badge pour les langages les plus utilisés (centré) -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj)
 
 </p>

@@ -1,29 +1,3 @@
-
-<!-- Improved compatibility of back to top link -->
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-<!-- <p align="center"> -->
-  
-  <!-- Badges pour les vues du profil, LinkedIn et les étoiles GitHub des dépôts (alignés sur une même ligne) -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=samy-hadj&color=brightgreen)
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![GitHub Repo stars](https://img.shields.io/github/stars/samy-hadj?style=social)](https://github.com/samy-hadj?tab=repositories)
-
-<!-- </p> -->
-
-<!-- <p align="center"> -->
-
-  <!-- Badge pour les statistiques GitHub (centré)
-  [![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy-hadj&show_icons=true&theme=radical)](https://github.com/samy-hadj)
-
-  <!-- Badge pour les langages les plus utilisés (centré) -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-hadj&layout=compact)](https://github.com/samy-hadj) -->
-
-<!-- </p> -->
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -61,10 +35,20 @@ As a 5th-year EPITA student specializing in Artificial Intelligence, my work foc
 <!-- KEY PROJECTS -->
 ## Key Projects
 
+### [MasterTagSystemInspiredByCriteo](https://github.com/samy-hadj/MasterTagSystemInspiredByCriteo)
+
+<p align="center">
+   <img src="./assets/criteo_without_background.png" alt="Criteo Logo">
+</p>
+
+- Created to showcase my initiative and interest in joining **Criteo** as a Software Engineer Intern (currently "interview in progress").
+- Built using **C# .NET**, **TypeScript**, **HTML/CSS (Angular)**, **Python**, **Kafka**, and **Docker**.
+- Designed to handle **high throughput**, demonstrating my ability to develop real-time, scalable systems.
+
 ### [Reddit Bot](https://github.com/Jason2EPITA/Reddit_Bot)
 - Developed a Reddit bot using LangChain (GPT-4) for automated problem-solving.
 - Capabilities include constraint satisfaction (CSP), Sudoku solving, and real-time reformulation.
-  
+
 ### [Big Data Financial Analysis](https://github.com/camilziane/bourse_big_data)
 - Created a financial analysis platform using Pandas for big data processing.
 - Built an interactive dashboard with Plotly/Dash; deployed with Docker and SQL for backend.
@@ -104,17 +88,3 @@ Samy Hadj-Said - [@LinkedIn](https://linkedin.com/in/samy-hadj-said-515765259/) 
 GitHub: [https://github.com/samy-hadj](https://github.com/samy-hadj)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/samy-hadj.svg?style=for-the-badge
-[contributors-url]: https://github.com/samy-hadj?tab=contributors
-[forks-shield]: https://img.shields.io/github/forks/samy-hadj.svg?style=for-the-badge
-[forks-url]: https://github.com/samy-hadj/network/members
-[stars-shield]: https://img.shields.io/github/stars/samy-hadj.svg?style=for-the-badge
-[stars-url]: https://github.com/samy-hadj/stargazers
-[issues-shield]: https://img.shields.io/github/issues/samy-hadj.svg?style=for-the-badge
-[issues-url]: https://github.com/samy-hadj/issues
-[license-shield]: https://img.shields.io/github/license/samy-hadj.svg?style=for-the-badge
-[license-url]: https://github.com/samy-hadj/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/samy-hadj-said-515765259/

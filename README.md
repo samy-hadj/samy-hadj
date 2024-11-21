@@ -34,6 +34,11 @@ As a 5th-year EPITA student specializing in Artificial Intelligence, my work foc
 
 <!-- KEY PROJECTS -->
 ## Key Projects
+### [Movie Pairing Recommender](https://github.com/samy-hadj/movie-pairing-recommender)
+
+- Built a recommendation system leveraging data from **MovieLens** and **IMDb** datasets.
+- Integrated information on genres, metadata, and user ratings to suggest relevant movie pairings.
+- Demonstrated expertise in data preprocessing, collaborative filtering, and content-based recommendation techniques.
 
 ### [MasterTagSystemInspiredByCriteo](https://github.com/samy-hadj/MasterTagSystemInspiredByCriteo)
 
@@ -60,13 +65,11 @@ As a 5th-year EPITA student specializing in Artificial Intelligence, my work foc
 ### [Custom DALL-E Implementation](https://github.com/samy-hadj/my_dalle)
 - A custom implementation of DALL-E inspired by OpenAI's model for image generation.
 
-### [BitMap Library in C#](https://github.com/samy-hadj/MyBitMap)
-- Developed a library to recreate BitMap functionality in C# as part of a personal learning project.
-
 ### [Mini RAG (Retrieval-Augmented Generation)](https://github.com/samy-hadj/miniRag)
 - Simple RAG model prototype created to explore retrieval-augmented generation in NLP applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- TECHNOLOGIES USED -->
 ## Technologies Used

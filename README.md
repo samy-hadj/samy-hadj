@@ -40,6 +40,10 @@ As a 5th-year EPITA student specializing in Artificial Intelligence, my work foc
 - Integrated information on genres, metadata, and user ratings to suggest relevant movie pairings.
 - Demonstrated expertise in data preprocessing, collaborative filtering, and content-based recommendation techniques.
 
+<p align="center">
+   <img src="./assets/movielens_imdb.png" alt="movielens_imdb">
+</p>
+
 ### [MasterTagSystemInspiredByCriteo](https://github.com/samy-hadj/MasterTagSystemInspiredByCriteo)
 
 <p align="center">

@@ -46,11 +46,11 @@ As a 5th-year EPITA student specializing in Artificial Intelligence, my work foc
 
 ### [MasterTagSystemInspiredByCriteo](https://github.com/samy-hadj/MasterTagSystemInspiredByCriteo)
 
-<p align="center">
+<!-- <p align="center">
    <img src="./assets/criteo_without_background.png" alt="Criteo Logo">
-</p>
+</p> -->
 
-- Created to showcase my initiative and interest in joining **Criteo** as a Software Engineer Intern (currently "interview in progress").
+<!-- - Created to showcase my initiative and interest in joining **Criteo** as a Software Engineer Intern (currently "interview in progress"). -->
 - Built using **C# .NET**, **TypeScript**, **HTML/CSS (Angular)**, **Python**, **Kafka**, and **Docker**.
 - Designed to handle **high throughput**, demonstrating my ability to develop real-time, scalable systems.
 
